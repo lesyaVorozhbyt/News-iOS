@@ -2,6 +2,7 @@ import UIKit
 // Hello I am Max!
 // MARK: Clouser func
 
+// Add 3 Max coment
 func printArray(isABS: Bool, arrayCloser: (_ array: [Int], _ isABS: Bool) -> [Int]) {
     var array = [15, 3, 7, 9, 20]
     array = arrayCloser(array, isABS)
