@@ -1,5 +1,5 @@
 import UIKit
-
+// Hello I am Max!
 
 func printArray(isABS: Bool, arrayCloser: (_ array: [Int], _ isABS: Bool) -> [Int]) {
     var array = [15, 3, 7, 9, 20]
